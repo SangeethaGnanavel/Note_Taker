@@ -47,4 +47,4 @@ GitHub repository URL : https://github.com/SangeethaGnanavel/Note_Taker
 
 Email for Question : sangeetha.gnana@gmail.com
 
-Deployed Url :
+Deployed Url : Note Taker (intense-waters-95641-fcbef8c844f2.herokuapp.com)
